@@ -1,3 +1,3 @@
 # TestJGitRepo
-Test repository jgit
+Test repository jgit and some words
 asd
