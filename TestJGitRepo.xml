@@ -4,10 +4,10 @@
     <dateTime>dd.MM.yyyy HH:mm:ss.SSS</dateTime>
     <formats>dd.MM.yyyy HH:mm:ss</formats>
     <import>org.mvel2</import>
-    <vars>vars.ini</vars>
-    <userVars>uservars/myvars.ini</userVars>
-    <matrix>examples</matrix>
-    <appDict>dic/gui</appDict>
+    <vars></vars>
+    <userVars></userVars>
+    <matrix></matrix>
+    <appDict></appDict>
     <clientDict></clientDict>
-    <library>matrices/libs</library>
+    <library></library>
 </configuration>    
