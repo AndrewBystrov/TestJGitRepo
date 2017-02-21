@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-1487686938399542084
-=======
-1487686929230441328
->>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+1487687036966332967
