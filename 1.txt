@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  0:59:14.41 
+=======
+ 0:59:20.70 
+>>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
