@@ -1,0 +1,4 @@
+q=$(date +%s%N)
+echo $q > new_dir/newFile
+git add new_dir/newFile
+git commit -m "new file into new dir" new_dir/newFile
