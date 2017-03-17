@@ -1,0 +1,5 @@
+Start file ./merge/NM-MN.txt
+1489750320770160736
+And another conflicts line
+1489750320771648186
+End file ./merge/NM-MN.txt
