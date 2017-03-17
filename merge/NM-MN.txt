@@ -11,3 +11,16 @@ And another conflicts line
 1489754726171638245
 >>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
 End file ./merge/NM-MN.txt
+Some another lines
+Some another lines
+Some another lines
+1489756839310628291
+And another conflicts line
+My new li
+My new li
+My new li
+My new li
+My new li
+1489756839313250725
+1489756839315610564
+End file ./merge/NM-MN.txt

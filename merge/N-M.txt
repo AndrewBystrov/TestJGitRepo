@@ -1,7 +1,3 @@
 Start file ./merge/N-M.txt
-<<<<<<< HEAD
-1489754730797326715
-=======
-1489754726193805596
->>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+1489756839344410918
 End file ./merge/N-M.txt
