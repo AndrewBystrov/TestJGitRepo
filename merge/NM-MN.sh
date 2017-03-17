@@ -12,13 +12,15 @@ else
 fi
 
 echo "Start file $file" > $file
-for i in {1.."$countFirst"}
+
+for((i=0;i<"$countFirst";i++))
 do
 	echo $(date +%s%N) >> $file
 done
 
 echo "And another conflicts line" >> $file
-for i in {1.."$countSecond"}
+
+for((i=0;i<"$countSecond";i++))
 do
 	echo $(date +%s%N) >> $file
 done
