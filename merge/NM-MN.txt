@@ -2,19 +2,48 @@ Start file ./merge/NM-MN.txt
 Some another lines
 Some another lines
 Some another lines
+<<<<<<< HEAD
+<<<<<<< HEAD
+1489756843911358721
+=======
+1489756839310628291
+>>>>>>> 41e925057bb2fda3431afea84c4848e514c54480
+=======
 1489757273732608798
 1489757273736137896
 1489757273739333098
+>>>>>>> 382f01052c5c0bfc018500318f6b37bd6ced5497
 And another conflicts line
 My new li
 My new li
 My new li
 My new li
 My new li
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+1489756839313250725
+1489756839315610564
+>>>>>>> 41e925057bb2fda3431afea84c4848e514c54480
+End file ./merge/NM-MN.txt
+Some another lines
+Some another lines
+Some another lines
+1489757278660268867
+1489757278663621252
+1489757278667129179
+And another conflicts line
+My new li
+My new li
+My new li
+My new li
+My new li
+=======
 1489757273742652209
 1489757273745492403
 1489757273748724511
 1489757273751885284
 1489757273755382458
 1489757273758922807
+>>>>>>> 382f01052c5c0bfc018500318f6b37bd6ced5497
 End file ./merge/NM-MN.txt
