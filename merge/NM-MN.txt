@@ -1,4 +1,13 @@
 Start file ./merge/NM-MN.txt
+<<<<<<< HEAD
 1489754730779466608
+=======
+1489754726166893152
+>>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
 And another conflicts line
+<<<<<<< HEAD
+=======
+1489754726169309356
+1489754726171638245
+>>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
 End file ./merge/NM-MN.txt
