@@ -1,13 +1,19 @@
 Start file ./merge/N-N.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 1489757656938633453
 1489757656941612878
 1489757656944461204
 1489757656947128549
 =======
+=======
+>>>>>>> 577431ea5b2ec77d4f211a55de144b8e77fa408a
 1489757643110744366
 1489757643113447236
 1489757643116139034
 1489757643118316170
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+=======
+>>>>>>> 577431ea5b2ec77d4f211a55de144b8e77fa408a
 End file ./merge/N-N.txt

@@ -3,22 +3,29 @@ Some another lines
 Some another lines
 Some another lines
 <<<<<<< HEAD
+<<<<<<< HEAD
 1489757656777952435
 1489757656780538479
 1489757656782876108
 1489757656785185080
 =======
+=======
+>>>>>>> 577431ea5b2ec77d4f211a55de144b8e77fa408a
 1489757642935713983
 1489757642937864363
 1489757642940126031
 1489757642942500948
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+=======
+>>>>>>> 577431ea5b2ec77d4f211a55de144b8e77fa408a
 And another conflicts line
 My new li
 My new li
 My new li
 My new li
 My new li
+<<<<<<< HEAD
 <<<<<<< HEAD
 1489757656788184733
 1489757656790561224
@@ -27,11 +34,16 @@ My new li
 1489757656798109152
 1489757656800723431
 =======
+=======
+>>>>>>> 577431ea5b2ec77d4f211a55de144b8e77fa408a
 1489757642945025517
 1489757642947623843
 1489757642950476075
 1489757642952842055
 1489757642955543452
 1489757642958173638
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+=======
+>>>>>>> 577431ea5b2ec77d4f211a55de144b8e77fa408a
 End file ./merge/NM-MN.txt
