@@ -25,3 +25,6 @@ echo $pwd >> 3.txt
 echo "Done" >> 3.txt
 #echo ''
 #cat 3.txt
+
+git add 3.txt
+git commit -m "Change the file 3.txt from $pwd" 3.txt
