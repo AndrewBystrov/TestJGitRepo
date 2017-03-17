@@ -1,7 +1,8 @@
 #define
 file=$(sed "s/sh/txt/g" <<<$0)
 dateVar=$(date +%s%N)
-if [ "$pwd" == *GIT_1* ]
+
+if [ "$i(pwd)" == *GIT_1* ]
 then
 	count=$2
 else

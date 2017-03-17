@@ -2,7 +2,7 @@
 file=$(sed "s/sh/txt/g" <<<$0)
 dateVar=$(date +%s%N)
 
-if [ "$pwd" == *GIT_1* ]
+if [ "$(pwd)" == *GIT_1* ]
 then
 	countSecond=$1
 else
