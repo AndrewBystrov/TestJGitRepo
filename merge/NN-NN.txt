@@ -1,5 +1,5 @@
 Start file ./merge/NN-NN.txt
-1489750320801411900
+1489750493506644845
 And another conflicts line
-1489750320803014602
+1489750493509752071
 End file ./merge/NN-NN.txt
