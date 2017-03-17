@@ -1,1 +1,1 @@
-echo $(date +%s%N) > simple.txt
+echo $(date +%s%N) > merge/simple.txt
