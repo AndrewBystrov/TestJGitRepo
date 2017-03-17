@@ -1,5 +1,5 @@
 Start new line
 Next 1 lines create conflict
-1489742368336901499
+1489742411235996960
 And next line has 1 conflict
 Done
