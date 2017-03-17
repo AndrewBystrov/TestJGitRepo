@@ -10,7 +10,7 @@ fi
 
 echo "Start file $file" > $file
 
-for((i=0;i<"$count";i++))
+for((i=0; i<"$count"; i++))
 do
 	echo $(date +%s%N) >> $file
 done

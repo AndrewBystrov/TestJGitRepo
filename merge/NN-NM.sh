@@ -30,7 +30,7 @@ do
 	echo "My new li" >> $file
 done
 
-for((i=0;i<"$countSecond";i++))
+for((i=0; i<"$countSecond"; i++))
 do
 	echo $(date +%s%N) >> $file
 done

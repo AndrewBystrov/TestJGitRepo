@@ -11,13 +11,13 @@ else
 	countSecond=$2
 fi
 
-echo "Start file $file" > $fil
+echo "Start file $file" > $file
 for i in 1 2 3
 do
 	echo "Some another lines" >> $file
 done
 
-for((i=0;i<"$countFirst";i++))
+for((i=0; i<"$countFirst"; i++))
 do
 	echo $(date +%s%N) >> $file
 done
@@ -29,7 +29,7 @@ do
 	echo "My new li" >> $file
 done
 
-for((i=0;i<"$countSecond";i++))
+for((i=0; i<"$countSecond"; i++))
 do
 	echo $(date +%s%N) >> $file
 done
