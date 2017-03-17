@@ -11,7 +11,11 @@ else
 	countSecond=$2
 fi
 
-echo "Start file $file" > $file
+echo "Start file $file" > $fil
+for i in 1 2 3
+do
+	echo "Some another lines" >> $file
+done
 
 for((i=0;i<"$countFirst";i++))
 do
@@ -19,6 +23,11 @@ do
 done
 
 echo "And another conflicts line" >> $file
+
+for i in 1 2 3 4 5
+do
+	echo "My new li" >> $file
+done
 
 for((i=0;i<"$countSecond";i++))
 do
