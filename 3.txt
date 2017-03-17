@@ -1,6 +1,6 @@
 Start new line
 Next 1 lines create conflict
-1489741272541625936
+1489741262085665323
 And next line has 1 conflict
-/home/andrey.bystrov/Projects/JGIT/GIT_2_
+/home/andrey.bystrov/Projects/JGIT/GIT_1_
 Done
