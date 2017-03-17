@@ -1,13 +1,12 @@
 Start file ./merge/NN-NM.txt
-<<<<<<< HEAD
-1489754730806036011
-=======
-1489754726205936678
->>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+Some another lines
+Some another lines
+Some another lines
+1489756843956483851
 And another conflicts line
-<<<<<<< HEAD
-=======
-1489754726208525975
-1489754726210682517
->>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
+My new li
+My new li
+My new li
+My new li
+My new li
 End file ./merge/NN-NM.txt
