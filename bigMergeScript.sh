@@ -36,7 +36,16 @@ do
 	if [[ "$i" != *.sh ]]
 	then
 		git add "merge/$i"
-		git commit --amend "merge/$i" -m "Add merged files with N=$N and M=$M"
+		#git commit --amend "merge/$i" -m "Add merged files with N=$N and M=$M"
 	fi
 done
+
+allFiles=""
+for i in $(ls merge | grep txt)
+do
+	allFiles="$allFiles merge/$i"
+done
+
+git commit -m "Add merged files with N=$N and M=$M" $allFiles
+
 echo 'All files are commited. You may push your changes'
