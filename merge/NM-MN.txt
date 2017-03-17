@@ -1,30 +1,25 @@
 Start file ./merge/NM-MN.txt
+Some another lines
+Some another lines
+Some another lines
 <<<<<<< HEAD
-1489754730779466608
-=======
-1489754726166893152
->>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
-And another conflicts line
-<<<<<<< HEAD
-=======
-1489754726169309356
-1489754726171638245
->>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
-End file ./merge/NM-MN.txt
-Some another lines
-Some another lines
-Some another lines
 <<<<<<< HEAD
 1489756843911358721
 =======
 1489756839310628291
 >>>>>>> 41e925057bb2fda3431afea84c4848e514c54480
+=======
+1489757273732608798
+1489757273736137896
+1489757273739333098
+>>>>>>> 382f01052c5c0bfc018500318f6b37bd6ced5497
 And another conflicts line
 My new li
 My new li
 My new li
 My new li
 My new li
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 1489756839313250725
@@ -43,4 +38,12 @@ My new li
 My new li
 My new li
 My new li
+=======
+1489757273742652209
+1489757273745492403
+1489757273748724511
+1489757273751885284
+1489757273755382458
+1489757273758922807
+>>>>>>> 382f01052c5c0bfc018500318f6b37bd6ced5497
 End file ./merge/NM-MN.txt
