@@ -1,3 +1,0 @@
-INFO  2017-03-15 06:00:46.022 [      main] MainRunner:54  - Tool version: 4.4.0.local_build
-INFO  2017-03-15 06:00:46.056 [      main] MainRunner:55  - API version:  2.29
-INFO  2017-03-15 06:00:46.056 [      main] MainRunner:56  - args: [-config=TestJGitRepo.xml]
