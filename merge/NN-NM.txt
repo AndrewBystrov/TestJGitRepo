@@ -2,7 +2,9 @@ Start file ./merge/NN-NM.txt
 Some another lines
 Some another lines
 Some another lines
-1489756843956483851
+1489757278728056091
+1489757278730606969
+1489757278733042882
 And another conflicts line
 My new li
 My new li
