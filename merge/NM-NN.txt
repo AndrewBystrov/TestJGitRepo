@@ -2,12 +2,16 @@ Start file ./merge/NM-NN.txt
 Some another lines
 Some another lines
 Some another lines
-1489756839330365521
+1489757273774314855
+1489757273776792627
+1489757273779071838
 And another conflicts line
 My new li
 My new li
 My new li
 My new li
 My new li
-1489756839332702675
+1489757273782399911
+1489757273785181211
+1489757273787927476
 End file ./merge/NM-NN.txt
