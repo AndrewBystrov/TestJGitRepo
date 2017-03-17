@@ -2,18 +2,32 @@ Start file ./merge/NM-NN.txt
 Some another lines
 Some another lines
 Some another lines
+<<<<<<< HEAD
 1489757656815087152
 1489757656818093872
 1489757656821374998
 1489757656824812502
+=======
+1489757642973164845
+1489757642975433048
+1489757642977804482
+1489757642980717674
+>>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
 And another conflicts line
 My new li
 My new li
 My new li
 My new li
 My new li
+<<<<<<< HEAD
 1489757656828338697
 1489757656830809173
 1489757656833302188
 1489757656835735141
+=======
+1489757642983819692
+1489757642986420206
+1489757642988894502
+1489757642991457556
+>>>>>>> branch 'master' of https://github.com/AndrewBystrov/TestJGitRepo.git
 End file ./merge/NM-NN.txt
