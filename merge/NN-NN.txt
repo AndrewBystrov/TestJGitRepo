@@ -1,5 +1,11 @@
 Start file ./merge/NN-NN.txt
+<<<<<<< HEAD
 1489750493506644845
 And another conflicts line
 1489750493509752071
+=======
+1489750486356759453
+And another conflicts line
+1489750486360028664
+>>>>>>> b299de89648b22b48d824c6764a48b7b2c6b5bee
 End file ./merge/NN-NN.txt

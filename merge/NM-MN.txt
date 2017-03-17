@@ -1,5 +1,11 @@
 Start file ./merge/NM-MN.txt
+<<<<<<< HEAD
 1489750493438439679
 And another conflicts line
 1489750493441317957
+=======
+1489750486293170636
+And another conflicts line
+1489750486295736618
+>>>>>>> b299de89648b22b48d824c6764a48b7b2c6b5bee
 End file ./merge/NM-MN.txt

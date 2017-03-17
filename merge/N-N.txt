@@ -1,3 +1,7 @@
 Start file ./merge/N-N.txt
+<<<<<<< HEAD
 1489750493524468262
+=======
+1489750486375035927
+>>>>>>> b299de89648b22b48d824c6764a48b7b2c6b5bee
 End file ./merge/N-N.txt
