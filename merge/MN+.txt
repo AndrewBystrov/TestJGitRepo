@@ -12,6 +12,7 @@ My new li 2
 My new li 3
 My new li 4
 My new li 5
+
 And another conflicts line
 My new li 1
 My new li 2
