@@ -3,7 +3,6 @@ file=$(sed "s/sh/txt/g" <<<$0)
 dateVar=$(date +%s%N)
 if [[ "$(pwd)" == *GIT_1* ]]
 then
-	echo 'ASDASDASDASD'
 	count=$1
 else
 	count=$2
