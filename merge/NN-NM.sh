@@ -15,7 +15,7 @@ echo "Start file $file" > $file
 
 for i in 1 2 3
 do
-	echo "Some another lines" >> $file
+	echo "Some another lines $i" >> $file
 done
 
 for ((i=0; i<$countFirst; i++))
@@ -27,7 +27,7 @@ echo "And another conflicts line" >> $file
 
 for i in 1 2 3 4 5
 do
-	echo "My new li" >> $file
+	echo "My new line $i" >> $file
 done
 
 for((i=0; i<"$countSecond"; i++))
