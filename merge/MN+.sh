@@ -19,8 +19,8 @@ done
 
 for((j=0; j < 5; j++))
 do
-	randomFirst=$(snuf -i 0-$countFirst -n 1)
-	randomSecond=$(snuf -u 0-$countSecond -n 1)
+	randomFirst=$(shuf -i 0-"$countFirst" -n 1)
+	randomSecond=$(shuf -i 0-"$countSecond" -n 1)
 
 	for((i=0; i<"$randomFirst"; i++))
 	do
