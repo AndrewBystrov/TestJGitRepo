@@ -19,13 +19,7 @@ for i in $(ls merge)
 do
 	if [[ "$i" != *.txt ]]
 	then
-		#TODO think about it
-		#if [[ $(pwd) == *GIT_1* ]]
-		#then
-			./merge/$i "$N" "$M"
-		#else
-		#	./merge/$i "$M"
-		#fi
+		./merge/$i "$N" "$M"
 	fi
 done
 
