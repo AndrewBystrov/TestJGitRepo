@@ -20,7 +20,16 @@ done
 for((j=0; j < 5; j++))
 do
 	randomFirst=$(shuf -i 0-"$countFirst" -n 1)
+	if [[ "$randomFirst" -eq 0 ]]
+	then
+		randomFirst=1;
+	fi
+
 	randomSecond=$(shuf -i 0-"$countSecond" -n 1)
+	if [[ "$randomSecond" -eq 0 ]]
+	then
+		randomSecond=1;
+	fi
 
 	for((i=0; i<"$randomFirst"; i++))
 	do
