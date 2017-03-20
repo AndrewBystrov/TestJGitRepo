@@ -10,7 +10,7 @@ else
 fi
 countFirst=$1;
 
-echo "Start file $file" >> $file
+echo "Start file $file" > $file
 
 for((i=0; i<"$countFirst"; i++))
 do

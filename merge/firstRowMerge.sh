@@ -10,6 +10,8 @@ else
 fi
 countFirst=$1;
 
+echo $(date +%s%N) > $file
+
 for((i=0; i<"$countFirst"; i++))
 do
 	echo $(date +%s%N) >> $file

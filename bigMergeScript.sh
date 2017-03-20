@@ -41,4 +41,4 @@ done
 
 git commit -m "Add merged files with N=$N and M=$M" $allFiles
 
-echo "All files [$allFiles]  are commited. You may push your changes"
+echo "All files [\e[0;32m$allFiles]  are commited. You may push your changes"
