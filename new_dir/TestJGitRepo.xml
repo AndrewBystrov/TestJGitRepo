@@ -1,13 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <configuration>
     <time>HH:mm:ss.SSS</time>
     <date>dd.MM.yyyy</date>
     <dateTime>dd.MM.yyyy HH:mm:ss.SSS</dateTime>
     <formats>dd.MM.yyyy HH:mm:ss</formats>
+    <reports>reports</reports>
+    <git></git>
+    <version></version>
     <import>org.mvel2</import>
     <vars></vars>
     <userVars></userVars>
     <matrix></matrix>
+    <matrix>/home/andrey.bystrov/Projects/JGIT/GIT_2_/new_dir/new</matrix>
     <appDict></appDict>
     <clientDict></clientDict>
     <library></library>
-</configuration>    
+    <globalHandler enable="true">
+        <onTestCaseStart></onTestCaseStart>
+        <onTestCaseFinish></onTestCaseFinish>
+        <onTestCaseError></onTestCaseError>
+        <onStepStart></onStepStart>
+        <onStepFinish></onStepFinish>
+        <onStepError></onStepError>
+    </globalHandler>
+</configuration>
