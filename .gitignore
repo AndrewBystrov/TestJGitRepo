@@ -3,3 +3,4 @@ new_dir/logs/
 logs/*
 .log.xml
 .settings.xml
+new_dir
