@@ -1,6 +1,10 @@
 #Id;#NameSpace
 DeskReg;Main
-
+// Preconditions
+    #Id;#SubCase;#Login;#Password;#Env
+    Login;Login user;Login;Password;Env
+        #Action;#Str
+        Print;DateTime.current()+' Login to Total Desktop by '+Login
 		#Id;#Action;#AppId;#MainClass;#Args;#Jar
 		APPSTR0;ApplicationStart;'DESKTOP';'com.streamingedge.client.uimanager.Startup';'';''
 
