@@ -1,6 +1,9 @@
 #Id;#NameSpace
 DeskReg;Main
-
+#Id;#SubCase;#Login;#Password;#Env
+	Login;Login user;Login;Password;Env
+		#Action;#Status
+		Print;'Login'
 		#Id;#Action;#AppId;#MainClass;#Args;#Jar
 		APPSTR0;ApplicationStart;'DESKTOP';'com.streamingedge.client.uimanager.Startup';'';''
 
