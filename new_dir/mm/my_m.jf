@@ -20,6 +20,7 @@ DeskReg;Main
 
     #EndSubCase
 
+	//i zdes' ya sdelal commentariy
     #Id;#SubCase;#Login;#Password;#Env;#Domain
     LoginDomain;Login user;Login;Password;Env;
         #Id;#Action;#AppId;#MainClass;#Args;#Jar
