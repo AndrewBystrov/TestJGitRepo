@@ -2,7 +2,8 @@ Start file ./merge/NM-MN.txt
 Some another lines 1
 Some another lines 2
 Some another lines 3
-1490883667161733469
+1490883653894301589
+1490883653896684480
 And another conflicts line
 My new li 1
 My new li 2

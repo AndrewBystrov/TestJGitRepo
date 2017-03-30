@@ -1,5 +1,5 @@
 Start file ./merge/NN-NN.txt
-1490883667263016336
+1490883654006061249
 And another conflicts line
 Some another lines 1
 Some another lines 2

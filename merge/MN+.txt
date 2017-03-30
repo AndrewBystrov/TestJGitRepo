@@ -1,48 +1,44 @@
-Start file ./merge/MN+.txt with date 1490883667077081014
+Start file ./merge/MN+.txt with date 1490883653775238516
 Some another lines 1
 Some another lines 2
 Some another lines 3
-1490883667089491273
+1490883653824268765
+1490883653827017074
 And another conflicts line
 My new li 1
 My new li 2
 My new li 3
 My new li 4
 My new li 5
-1490883667092541484
-1490883667095334653
-1490883667103188511
+1490883653830007605
+1490883653838131473
 And another conflicts line
 My new li 1
 My new li 2
 My new li 3
 My new li 4
 My new li 5
-1490883667106427193
-1490883667109343617
-1490883667119257533
+1490883653841174408
+1490883653849679884
 And another conflicts line
 My new li 1
 My new li 2
 My new li 3
 My new li 4
 My new li 5
-1490883667122266820
-1490883667129207881
+1490883653853003440
+1490883653862331758
 And another conflicts line
 My new li 1
 My new li 2
 My new li 3
 My new li 4
 My new li 5
-1490883667132264453
-1490883667134956149
-1490883667143068752
+1490883653865730311
+1490883653873972828
 And another conflicts line
 My new li 1
 My new li 2
 My new li 3
 My new li 4
 My new li 5
-1490883667145980010
-End file ./merge/MN+.txt

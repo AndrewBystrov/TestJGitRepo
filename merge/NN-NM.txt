@@ -2,7 +2,7 @@ Start file ./merge/NN-NM.txt
 Some another lines 1
 Some another lines 2
 Some another lines 3
-1490883667241735186
+1490883653993098251
 And another conflicts line
 My new line 1
 My new line 2
@@ -11,4 +11,3 @@ My new line 4
 My new line 5
 1490883667245225144
 1490883667248474764
-End file ./merge/NN-NM.txt
