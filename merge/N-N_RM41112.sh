@@ -21,5 +21,5 @@ done
 
 for i in {1..10000}
 do
-	echo "$space super line" >> $file
+	echo "$space super very very big line with some characters and i don't know what i can write here for long long line" >> $file
 done
